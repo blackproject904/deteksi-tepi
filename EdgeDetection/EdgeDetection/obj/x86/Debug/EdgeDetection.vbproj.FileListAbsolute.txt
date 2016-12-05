@@ -1,0 +1,13 @@
+C:\Users\BLACKHAT\documents\visual studio 2010\Projects\EdgeDetection\EdgeDetection\bin\Debug\EdgeDetection.exe
+C:\Users\BLACKHAT\documents\visual studio 2010\Projects\EdgeDetection\EdgeDetection\bin\Debug\EdgeDetection.pdb
+C:\Users\BLACKHAT\documents\visual studio 2010\Projects\EdgeDetection\EdgeDetection\bin\Debug\EdgeDetection.xml
+C:\Users\BLACKHAT\documents\visual studio 2010\Projects\EdgeDetection\EdgeDetection\obj\x86\Debug\WindowsApplication1.Roberts.resources
+C:\Users\BLACKHAT\documents\visual studio 2010\Projects\EdgeDetection\EdgeDetection\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\BLACKHAT\documents\visual studio 2010\Projects\EdgeDetection\EdgeDetection\obj\x86\Debug\EdgeDetection.vbproj.GenerateResource.Cache
+C:\Users\BLACKHAT\documents\visual studio 2010\Projects\EdgeDetection\EdgeDetection\obj\x86\Debug\EdgeDetection.exe
+C:\Users\BLACKHAT\documents\visual studio 2010\Projects\EdgeDetection\EdgeDetection\obj\x86\Debug\EdgeDetection.xml
+C:\Users\BLACKHAT\documents\visual studio 2010\Projects\EdgeDetection\EdgeDetection\obj\x86\Debug\EdgeDetection.pdb
+C:\Users\BLACKHAT\Documents\Visual Studio 2010\Projects\EdgeDetection\EdgeDetection\obj\x86\Debug\WindowsApplication1.Prewitt.resources
+C:\Users\BLACKHAT\Documents\Visual Studio 2010\Projects\EdgeDetection\EdgeDetection\obj\x86\Debug\WindowsApplication1.Sobel.resources
+C:\Users\BLACKHAT\Documents\Visual Studio 2010\Projects\EdgeDetection\EdgeDetection\obj\x86\Debug\WindowsApplication1.Freichen.resources
+C:\Users\BLACKHAT\Documents\Visual Studio 2010\Projects\EdgeDetection\EdgeDetection\obj\x86\Debug\WindowsApplication1.Laplacian.resources
